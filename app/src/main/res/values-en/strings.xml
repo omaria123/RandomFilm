@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Random Movie</string>
+    <string name="initial_text">Press the button to choose a movie</string>
+    <string name="btn_get_film">Random Movie</string>
+    <string name="btn_reset">Reset</string>
+    <string name="no_more_films">No more movies left! Press \"Reset\".</string>
+    <string name="reset_message">List reset. Press the button!</string>
+
+    <string-array name="films">
+        <item>Interstellar</item>
+        <item>Inception</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Dark Knight</item>
+        <item>The Lord of the Rings</item>
+        <item>The Green Mile</item>
+        <item>Fight Club</item>
+        <item>The Matrix</item>
+    </string-array>
+</resources>
